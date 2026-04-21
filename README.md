@@ -50,3 +50,9 @@ The goal of this repo is to demonstrate how AI can be used practically to improv
 ## 📁 Examples
 
 See the `/examples` folder for real use cases.
+
+## 📁 Examples
+
+- [Debugging](examples/debugging.md)
+- [Refactoring](examples/refactoring.md)
+- [ClubScout Workflow](examples/clubscout-workflow.md)
